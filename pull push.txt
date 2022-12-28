@@ -1,0 +1,2 @@
+git push: é usado para enviar o conteudo dentro de um local para outro remoto
+git pull: usado para atualizar um local remoto versoes mais recentes
